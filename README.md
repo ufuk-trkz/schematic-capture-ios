@@ -16,18 +16,20 @@ You can find the deployed project at [schematiccapture.com](https://www.schemati
 ### Team Lead
 
 - Labs20: **Jason Belgard** – [Github](https://github.com/jbelgard)
-- Labs22: ** Mark French** -  [Github](https://github.com/mrmarkfrench)
+- Labs22/24: ** Mark French** -  [Github](https://github.com/mrmarkfrench)
 
 ### UX
 
 - Labs20: **Brian Hamilton** – [LinkedIn](https://github.com/BHamilton781)
--  Labs 22: **Sarinaa VanderWag** - sarina-van-der-waag@lambdastudents.com 
+- Labs 22: **Sarinaa VanderWag** - sarina-van-der-waag@lambdastudents.com 
 
 
 ### iOS
 
 - Labs20: **Gi Pyo John Kim** – [Github](https://github.com/GiPyoK)
 - Labs22: **Troy Christian** - [Github) (https://github.com/TroyChristian)
+- Labs24: **Kerby Jean** - [Github) (https://github.com/)
+- Labs24: **Ufuk Türközü** - [Github) (https://github.com/ufuk-trkz)
 
 
 ### Full-Stack Web Developers
